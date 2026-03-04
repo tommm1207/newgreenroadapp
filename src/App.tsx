@@ -3364,7 +3364,7 @@ export default function App() {
             <div className="w-8 h-8 bg-white rounded-md flex items-center justify-center p-1">
               <img src={LOGO_URL} alt="Logo" className="w-full h-full object-contain" referrerPolicy="no-referrer" />
             </div>
-            <h1 className="font-bold text-sm tracking-wide hidden sm:block">QUẢN LÝ KHO CDX</h1>
+            <h1 className="font-bold text-sm tracking-wide hidden sm:block">QUẢN LÝ CON ĐƯỜNG XANH</h1>
           </div>
         </div>
 
